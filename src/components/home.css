@@ -1,0 +1,40 @@
+.list{
+    width: 25%;
+}
+
+.progress{
+    float: left;
+    width: 7.5rem;
+    height: 5px;
+    background-color: #0079bf;
+    border-radius: 2px;
+}
+
+.fullTime{
+    background-color: rgba(128, 128, 128, 0.726);
+    height:2.5rem;
+    width:8.5rem;
+}
+
+.apply{
+    border: 1px solid rgba(14, 14, 131, 0.616);
+    color: rgba(14, 14, 131, 0.616);
+    border-radius:20px;
+    width: 9rem;
+    height: 4rem;
+    text-align: center;
+}
+
+.view{
+    color: black;
+}
+
+.filter{
+    height:2.5rem;
+    width:15.5rem;
+    background-color:rgba(255, 255, 255, 0.637);
+}
+
+.clear{
+    color: rgb(17, 197, 71);
+}
